@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "codemirror": "^5.52.0",
-    "gatsby": "^2.19.7",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-netlify-cms": "^4.1.41",
     "netlify-cms-app": "^2.11.27",
     "react": "^16.12.0",
